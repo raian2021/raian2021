@@ -10,7 +10,7 @@ IT Engineer in London, doing a part-time MSc in Artificial Intelligence at the U
 | Project | What it does | Stack |
 |---|---|---|
 | [**Finlit**](https://finlit.uk) | AI personal finance app, live with 30 users. Rules categorise spending; the model only writes plain-language insights, so raw financial data never reaches it | Python, PostgreSQL, Claude, Next.js, TypeScript |
-| [**Fluxr**](https://app.fluxr.uk) | Energy-aware compute scheduling: daily forecasts on live electricity prices for five markets feed an optimiser (pre-pilot, impact simulated) | Python, XGBoost, OR-Tools |
+| [**Fluxr**](https://fluxr.cloud) | Energy-aware compute scheduling: daily forecasts on live electricity prices for five markets feed an optimiser (pre-pilot, impact simulated) | Python, XGBoost, OR-Tools |
 | **AI Expert-Finding Agent** | Tool-calling agent built for an investment firm's technical assessment: finds and ranks domain experts and writes briefings grounded in retrieved sources | Claude, FastAPI, Next.js, SQLite |
 | **Retrieval Service and Cloud Platform** | pgvector retrieval API deployed on AWS ECS Fargate with Terraform and keyless GitHub Actions OIDC deploys | FastAPI, PostgreSQL, pgvector, Docker, AWS, Terraform |
 | **Ticket Triage LLM** | Small model fine-tuned with LoRA to turn messy support tickets into structured JSON, with an evaluation harness checking every output | Python, PyTorch, LoRA |
