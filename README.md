@@ -49,10 +49,6 @@ IT Engineer in London, doing a part-time MSc in Artificial Intelligence at the U
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0F6CBD?style=flat-square&logo=microsoft&logoColor=white)
 
-## 💼 At work
-
-IT Engineer at Odgers, supporting 2,000+ users across EMEA, APAC and AMER. Built Power Automate flows that remove around 240 tickets every month, and automate identity and device provisioning with Python and PowerShell.
-
 ## 🎓 Education and certifications
 
 - MSc Artificial Intelligence, University of Liverpool (part-time, in progress, 70% average)
